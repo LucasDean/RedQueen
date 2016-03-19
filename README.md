@@ -2,6 +2,8 @@
 HomeSecurity
 
 Hardware: 
-RaspberryPi 2 
-Arduino Uno
+
+RaspberryPi 2
+
+Arduino Uno 
 
