@@ -22,16 +22,18 @@ while True:
                 print "Door #1"
             elif reading == 22:
                 print "Door #3"
-            elif reading == :
-                print "Door #"
-            elif reading == :
-                print "Door #"
-            elif reading == :
-                print "Door #"
-            elif reading == :
-                print "Door #"
-            elif reading == :
-                print "Door #"            
+            elif reading == 23:
+                print "Door #s 1 and 2"
+            elif reading == 21:
+                print "Door #s 1 and 3"
+            elif reading == 17:
+                print "Door #s 1 and 4"
+            elif reading == 20:
+                print "Door #s 2 and 3"
+            elif reading == 16:
+                print "Door #s 2 and 4"            
+            elif reading == 14:
+                print "Door #s 3 and 4"    
             else:
                 print "Unknown: ",reading
         previous_reading = reading
