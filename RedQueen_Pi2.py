@@ -15,13 +15,23 @@ while True:
             if reading == 26:
                 print "All Closed"
             elif reading == 24:
-                print "window # 2"
+                print "Door # 2"
             elif reading == 18:
-                print "Window # 4"
+                print "Door # 4"
             elif reading == 25:
-                print "Window #1"
+                print "Door #1"
             elif reading == 22:
-                print "Window #3"
+                print "Door #3"
+            elif reading == :
+                print "Door #"
+            elif reading == :
+                print "Door #"
+            elif reading == :
+                print "Door #"
+            elif reading == :
+                print "Door #"
+            elif reading == :
+                print "Door #"            
             else:
                 print "Unknown: ",reading
         previous_reading = reading
